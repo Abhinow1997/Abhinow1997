@@ -1,6 +1,12 @@
-## Hi there 👋
-![Hi]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://media.giphy.com/media/D2j3xOKq0O0qQ8BOVC/giphy.gif?cid=ecf05e47raji0hdaq26sbu66qttnf1dc91cye8mku4q1q41s&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+## Hey, how's it going! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+I am currently pursuing a master’s degree in Information Systems at Northeastern University in Boston, MA. I have over three years of experience as a Data Engineer at Jio Platforms, focusing on the supply chain and telecommunications sectors. Proficient in Scala, PySpark, and Hive, I have hands-on experience with various projects and cloud platforms like Azure and GCP. I am passionate about integrating large datasets, automating processes for efficiency, and developing scalable solutions.
+
+- :mag_right: I'm exploring generative AI and learning about different frameworks and emerging new technologies.
+- :handshake: I am open to collaborate on innovative projects that lead to impactful solutions.
+- :briefcase: I am looking for exciting internship or co-op opportunities.
+- :email: Feel free to reach out and connect me at gangurde.abhinav@gmail.com / gangurde.a@northeastern.edu.
+  
 <!--
 **Abhinow1997/Abhinow1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
