@@ -23,38 +23,38 @@ These are some of the major technologies that I use or have worked on in the pas
 ---
 
 ### Big Data & Frameworks
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1000px-Apache_Hive_logo.svg.png" alt="Hive" width="50" height="50"> **Hive**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="50" height="50"> **Hadoop**
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original-wordmark.svg" alt="Apache Spark" width="50" height="50"> **Apache Spark**
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168614.png" alt="Nifi" width="50" height="50"> **Apache Nifi**
-<img src="https://github.com/user-attachments/assets/cd922969-ffa9-488e-b9f0-c2643773cc46" alt="Sqoop" width="50" height="50"> **Sqoop**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="50" height="50"> **Kafka**
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="50" height="50"> **Airflow**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1000px-Apache_Hive_logo.svg.png" alt="Hive" width="30" height="30"> **Hive**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="30" height="30"> **Hadoop**
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original-wordmark.svg" alt="Apache Spark" width="30" height="30"> **Apache Spark**
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168614.png" alt="Nifi" width="30" height="30"> **Apache Nifi**
+<img src="https://github.com/user-attachments/assets/cd922969-ffa9-488e-b9f0-c2643773cc46" alt="Sqoop" width="30" height="30"> **Sqoop**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="30" height="30"> **Kafka**
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="30" height="30"> **Airflow**
 
 ---
 
 ### Cloud Platforms
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP (Google Cloud Platform)" width="50" height="50"> **Google Cloud Platform (GCP)**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure" width="50" height="50"> **Microsoft Azure**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP (Google Cloud Platform)" width="30" height="30"> **Google Cloud Platform (GCP)**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure" width="30" height="30"> **Microsoft Azure**
 
 ---
 
 ### Data Science
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="50" height="50"> **Pandas**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="50" height="50"> **Numpy**
-<img src="https://github.com/user-attachments/assets/4f830bbe-7e38-4f94-9dcb-5cfd7e4dd10c" alt="Scikit-Learn" width="50" height="50"> **Scikit-Learn**
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD9-q7eHUAjLQ3mBCHSQP1Gr8wF3xZf5a8Nt1d80onl1cWBq8LfOu3o_8MhLJeXBHofN8&usqp=CAU" alt="Plotly" width="50" height="50"> **Plotly**
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"> **Seaborn**
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="Matplotlib" width="50" height="50"> **Matplotlib**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="50" height="50"> **TensorFlow**
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="30" height="30"> **Pandas**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="30" height="30"> **Numpy**
+<img src="https://github.com/user-attachments/assets/4f830bbe-7e38-4f94-9dcb-5cfd7e4dd10c" alt="Scikit-Learn" width="30" height="30"> **Scikit-Learn**
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD9-q7eHUAjLQ3mBCHSQP1Gr8wF3xZf5a8Nt1d80onl1cWBq8LfOu3o_8MhLJeXBHofN8&usqp=CAU" alt="Plotly" width="30" height="30"> **Plotly**
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="30" height="30"> **Seaborn**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="Matplotlib" width="30" height="30"> **Matplotlib**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="30" height="30"> **TensorFlow**
 
 ---
 
 ### Visualization Tools
-<img src="https://github.com/user-attachments/assets/e762fb26-7484-401e-b925-f891ef358ea9" alt="Apache Superset" width="50" height="50"> **Apache Superset**
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4lN2hbd6Fk-LwMiByNEdqyktdyfqCIFA6fw&s" alt="Logi Analytics" width="50" height="50"> **Logi Analytics**
-<img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="50" height="50"> **Tableau**
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" alt="Power BI" width="50" height="50">**Power BI**
+<img src="https://github.com/user-attachments/assets/e762fb26-7484-401e-b925-f891ef358ea9" alt="Apache Superset" width="30" height="30"> **Apache Superset**
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4lN2hbd6Fk-LwMiByNEdqyktdyfqCIFA6fw&s" alt="Logi Analytics" width="30" height="30"> **Logi Analytics**
+<img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="30" height="30"> **Tableau**
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" alt="Power BI" width="30" height="30">**Power BI**
 
 ---
 
