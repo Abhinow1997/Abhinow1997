@@ -9,7 +9,7 @@ I am currently pursuing a master’s degree in Information Systems at Northeaste
 - :briefcase: I am looking for exciting internship or co-op opportunities.
 - :email: Feel free to reach out and connect me at gangurde.abhinav@gmail.com / gangurde.a@northeastern.edu.
 
-## Skill Set :muscle:
+## Skill Set 
 These are some of the major technologies that I use or have worked on in the past:
 
 ### Programming Languages
