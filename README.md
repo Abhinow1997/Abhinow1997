@@ -1,6 +1,6 @@
 # Hey, how's it going! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-## My name is Abhinav! :raising_hand:
+## My name is Abhinav! :raising_hand: 
 
 I am currently pursuing a master’s degree in Information Systems at Northeastern University in Boston, MA. I have over three years of experience as a Data Engineer at Jio Platforms, focusing on the supply chain and telecommunications sectors. Proficient in Scala, PySpark, and Hive, I have hands-on experience with various projects and cloud platforms like Azure and GCP. I am passionate about integrating large datasets, automating processes for efficiency, and developing scalable solutions.
 
@@ -26,7 +26,6 @@ These are some of the major technologies that I use or have worked on in the pas
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1000px-Apache_Hive_logo.svg.png" alt="Hive" width="30" height="30"> **Hive**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="30" height="30"> **Hadoop**
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original-wordmark.svg" alt="Apache Spark" width="30" height="30"> **Apache Spark**
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168614.png" alt="Nifi" width="30" height="30"> **Apache Nifi**
 <img src="https://github.com/user-attachments/assets/cd922969-ffa9-488e-b9f0-c2643773cc46" alt="Sqoop" width="30" height="30"> **Sqoop**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="30" height="30"> **Kafka**
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="30" height="30"> **Airflow**
@@ -58,6 +57,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ---
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Abhinow1997?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 
